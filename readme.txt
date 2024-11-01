@@ -8,8 +8,8 @@ The author(s) of the reproducibility package and their contact information:
 
 
 The structure of the repository provided (e.g., if separating code, input data and output data):
-- Codes must be run in consecutive order (00,01,02,03..). 
-- Data is loaded from 'Data' folder
+- Codes must be run in consecutive order (00_, 01_, 02_ ...). 
+- Data is loaded from 'data' folder
 - Estimation output is saved in 'temp' folder then in later codes called upon to be read
 - Figures and Tables are saved in the 'tables_and_figures' folder
 
